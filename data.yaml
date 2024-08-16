@@ -1,0 +1,14 @@
+train: C:\Users\Fitra\Downloads\anime art detection (medium)\anime art detection (medium)\anime art detection\train
+val: C:\Users\Fitra\Downloads\anime art detection (medium)\anime art detection (medium)\anime art detection\valid
+test: C:\Users\Fitra\Downloads\anime art detection (medium)\anime art detection (medium)\anime art detection\test
+
+
+nc: 15
+names: ['ATDAN_label', 'LM7_label', 'Pottsness_label', 'SWAV_label', 'Skade_label', 'alchemaniac_label', 'anmi_label', 'askziye_label', 'infukun_label', 'juri_jiuhao_label', 'kawaguchi_label', 'liduke_label', 'm9nokuro_label', 'namie_label', 'starshadowmagician_label']
+
+roboflow:
+  workspace: htifano-kkzyi
+  project: anime-art-detection
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/htifano-kkzyi/anime-art-detection/dataset/3
