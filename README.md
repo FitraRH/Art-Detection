@@ -57,9 +57,7 @@ Where:
 You can use the dataset with YOLOv8 for training by following the provided steps in the [YOLOv8 documentation](https://github.com/ultralytics/yolov8). Below is an example of how to load the dataset and train a model using YOLOv8:
 
 ```bash
-# Clone YOLOv8 repo
-git clone https://github.com/ultralytics/yolov8.git
-cd yolov8
+# Clone repo
 
 # Install dependencies
 pip install -U -r requirements.txt
